@@ -1,0 +1,12 @@
+{
+  "name": "be-the-hero",
+  "version": "1.0.0",
+  "description": "Omnistack week 11.0 - Backend Project",
+  "main": "index.js",
+  "author": "Philipe",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
